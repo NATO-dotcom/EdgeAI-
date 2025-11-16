@@ -1,0 +1,6 @@
+tensorflow>=2.10  # or appropriate TF2.x for your platform
+numpy
+pandas
+# Optional: reportlab (if you want to auto-generate PDFs from slides in Python)
+reportlab
+matplotlib  # for plotting and visualizations
